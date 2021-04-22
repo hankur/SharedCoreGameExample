@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{68740BE1-C9D5-4444-B9E6-C1452ADEEE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGame", "ConsoleGame\ConsoleGame.csproj", "{4DFE1BF7-ED55-4AB3-8BB6-0F780C910AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGame", "WebGame\WebGame.csproj", "{1555B011-1654-414E-B610-7E98BF3498F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68740BE1-C9D5-4444-B9E6-C1452ADEEE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68740BE1-C9D5-4444-B9E6-C1452ADEEE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68740BE1-C9D5-4444-B9E6-C1452ADEEE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68740BE1-C9D5-4444-B9E6-C1452ADEEE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFE1BF7-ED55-4AB3-8BB6-0F780C910AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFE1BF7-ED55-4AB3-8BB6-0F780C910AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFE1BF7-ED55-4AB3-8BB6-0F780C910AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFE1BF7-ED55-4AB3-8BB6-0F780C910AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1555B011-1654-414E-B610-7E98BF3498F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1555B011-1654-414E-B610-7E98BF3498F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1555B011-1654-414E-B610-7E98BF3498F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1555B011-1654-414E-B610-7E98BF3498F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
